@@ -1,0 +1,4 @@
+/Vendor/
+*.env
+*.min.json
+/nbproject/

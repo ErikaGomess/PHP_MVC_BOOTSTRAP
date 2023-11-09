@@ -1,0 +1,10 @@
+URL=https://mvc.dev.local:8443
+DB_HOST=db
+DB_NAME=mvc
+DB_USER=mvc
+DB_PASS=Q6o6JA9Scr2rmog@
+DB_PORT=3306
+MAINTENANCE=false
+JWT_KEY=osd2ndkfn4p98hebdnv
+CACHE_TIME=0
+CACHE_DIR=/tmp/wdev/mvc/cache
